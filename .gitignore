@@ -1,0 +1,7 @@
+.terraform*
+*terraform.tfstate*
+cncf-dubai
+developer-productivity
+kubernetes-fundamentals
+misc
+terraform
